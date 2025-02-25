@@ -7,10 +7,10 @@ const dummyMeals = [
     slug: 'juicy-cheese-burger',
     image: '/images/burger.jpg',
     summary:
-      'A mouth-watering burger with a juicy beef patty and melted cheese, served in a soft bun.',
+      'A mouth-watering burger with a juicy patty and melted cheese, served in a soft bun.',
     instructions: `
       1. Prepare the patty:
-         Mix 200g of ground beef with salt and pepper. Form into a patty.
+         Mix 200g of ground  with salt and pepper. Form into a patty.
 
       2. Cook the patty:
          Heat a pan with a bit of oil. Cook the patty for 2-3 minutes each side, until browned.
